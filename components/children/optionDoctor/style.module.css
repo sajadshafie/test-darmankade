@@ -1,0 +1,19 @@
+.item_option{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+
+}
+.icon_option{
+    color:#004099;
+    font-size: 35px;
+}
+.space_item{
+    margin: 0 30px;
+}
+.title_item{
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: 14px;
+}

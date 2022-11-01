@@ -1,0 +1,25 @@
+.container{
+    padding: 25px 41px;
+}
+.container_content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.baby_img{
+    height: 210px;
+    width: 230px;
+}
+.image_content{
+    flex: 0 0 48%;
+    height:320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e5f0ff;
+    border-radius: 20px;
+}
+.content{
+    flex: 0 0 48%;
+
+}

@@ -1,0 +1,75 @@
+.container{
+    padding: 25px 41px;
+    display: flex;
+    
+}
+.card_container {
+  box-shadow: 0 4px 6px 0 rgba(80, 87, 98, 0.12);
+  border: solid 0.5px #f1f1f4;
+  padding: 12px 12px 20px 12px;
+  border-radius: 5px;
+  margin-bottom: 25px;
+}
+.card_content {
+  display: flex;
+  justify-content: space-between;
+}
+.doctor_detail {
+    display: flex;
+    flex: 0 0 60%;
+}
+.detail_ {
+  background-color: #e5f0ff;
+  padding: 10px 8.5px 10.3px 8px;
+  border-radius: 5px;
+  width: 200px;
+}
+.doctor_image{
+    height: 72px;
+    flex: 0 0 72px;
+    margin-left: 30px;
+}
+.render_doctor{
+    flex: auto;
+    margin-left: 20px;
+}
+.doctor_location{
+    flex: 0 0 200px;
+}
+.title_line{
+    color: #004099
+    ;
+    font-size: 10px;
+}
+.detail_line{
+    font-size: 10px;
+    color: #505762
+    ;
+}
+.icon{
+    font-size: 25px;
+    color: #004099;
+    margin-left: 5px;
+}
+.space{
+    font-size: 10px;
+    padding:3px 6px;
+    background-color: #f1f1f4;
+    border-radius: 4px;
+    color: #505762;
+}
+.des{
+    font-size: 10px;
+    color: #505762;
+}
+.stars{
+    background-color: #f1f1f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3px 5px;
+    width: 50px;
+}
+.rating_{
+    margin: 20px 0;
+}

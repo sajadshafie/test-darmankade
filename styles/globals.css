@@ -1,0 +1,125 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  direction: rtl;
+  font-family: Iransans;
+}
+@font-face {
+  font-family: Iransans;
+  src: url("../public//assets/FontsFree-Net-ir_sans.ttf");
+}
+h3,
+h2,
+h1 {
+  margin: 0;
+}
+.p-container {
+  padding: 25px 41px;
+}
+a {
+  text-decoration: none;
+}
+.full-container {
+  width: 100%;
+  height: 100%;
+}
+
+.d-flex {
+  display: flex;
+}
+.align-center {
+  align-items: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.res-img {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.title-h2 {
+  font-size: 25px;
+  font-weight: bold;
+}
+.description {
+  font-size: 10px;
+}
+.text-color {
+  color: #505762;
+}
+.page-active {
+  color: #006cff;
+  font-size: 10px;
+}
+.link-page {
+  font-size: 8px;
+  color: #a0a6b1;
+}
+.line {
+  background-color: #d5d8dd;
+  width: 100%;
+  height: 1px;
+  margin: 15px 0;
+}
+.button-class {
+  background-color: white;
+  border: 1px solid #006cff;
+  border-radius: 5px;
+  padding: 8.5px 14px;
+  color: #006cff;
+  font-size: 12px;
+  height: 100%;
+  cursor: pointer;
+}
+.css-1okebmr-indicatorSeparator {
+  display: none !important;
+}
+.css-1s2u09g-control {
+  width: 100% !important;
+  border: 1px solid #006cff !important;
+  height: 20px !important;
+  border-radius: 5px !important;
+}
+.css-qc6sy-singleValue {
+  color: #006cff !important;
+  font-size: 12px;
+}
+.css-14el2xx-placeholder {
+  font-size: 12px;
+  color: #006cff !important;
+}
+.css-tj5bde-Svg {
+  fill: #006cff !important;
+}
+.fs-10 {
+  font-size: 10px;
+}
+.map {
+  width: 200px;
+  height: 500px;
+}
+.leaflet-control-attribution {
+  display: none !important;
+}
+.mb-1 {
+  margin-bottom: 15px;
+}
+.sub-color1 {
+  color: #006cff;
+}
+.fw-bold{
+  font-weight: bold;
+}
+.button-sec{
+  background-color: #006cff;
+  color: white;
+  height: 30px;
+  font-size: 10px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
